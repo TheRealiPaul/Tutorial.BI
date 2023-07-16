@@ -10,9 +10,9 @@ Also, I want to familiarize myself with the interface.
 - Install [**PowerBI**](https://powerbi.microsoft.com/en-ca/) from Microsoft ; 
 - Download [tuto financial sample.pbix](https://go.microsoft.com/fwlink/?LinkID=521962) from Microsoft ;
 - Open PowerBI ;
-- Click on Import data from Excel ;
+- Click on `Import data from Excel` ;
 - Browse to the download file and select it ;
-- Select financials ;
+- Select `financials` ;
 - Enjoy.
 
 Here is an example of my try on Power BI:
