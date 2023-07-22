@@ -17,7 +17,11 @@ Also, I want to familiarize myself with the interface.
 
 Here is an example of my try on Power BI:
 
-![Count of gross sales by date](https://github.com/TheRealiPaul/Tutorial.BI/blob/main/count_of_gross_sales_by_date.png?raw=true)
+![Count of gross sales by date](https://github.com/TheRealiPaul/Tutorial.BI/blob/main/images/count_of_gross_sales_by_date.png)
+
+Explication: 
+
+A line graph is a visual representation of data that shows how one variable changes in relation to another over time. The x-axis represents the time period and the y-axis represents the value of the variable being measured. In this case, the graph shows the count of gross sales by date. The steep drop from 70 to 0 between 10/1/2013 and 11/1/2013 indicates a significant change in sales volume. The line graph remains at 0 for the rest of the dates. You can use this graph to show how sales have changed over time and to identify trends in sales volume. 
 
 Here is an example of Sales by Date:
 
